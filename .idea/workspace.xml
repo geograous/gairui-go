@@ -8,9 +8,6 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="GOROOT" path="/usr/local/Cellar/go/1.15/libexec" />
-  <component name="GoLibraries">
-    <option name="indexEntireGoPath" value="false" />
-  </component>
   <component name="ProjectId" id="1hBSPa4oSQ3aFxZOV3gbow9fKxE" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
